@@ -1,3 +1,5 @@
-## Dados em Ciências Sociais
+# Dados em Ciências Sociais
 
-Um teste.
+## Visualizações de dados
+
+[Gráfico do PIB per capita vs. IPS](../cienciasoc/grafico.html)
